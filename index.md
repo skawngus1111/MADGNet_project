@@ -29,6 +29,10 @@ we propose a novel attention mechanism called Multi-Frequency in Multi-Scale Att
 
 *Figure 1:  (Left) The overall architecture of the proposed MADGNet mainly comprises MFMSA block and E-SDM. (Right) MFMSA block contains $S$ scale branches ($S = 3$ in this figure) where the $s$-th branch input feature map are downsampled into $\eta^{s - 1}$ ($\eta = \frac{1}{2}$ in this figure). As our MFMSA block considers two dimensions (scale and frequency), MADGNet achieves the highest performance in various modalities and other clinical settings. Additionally, since E-SDM predicts a core task from sub-tasks, the final output is more accurate than when processed parallelly.*
 
+![Ensemble](/static/image/Ensemble.png)
+
+*Figure 2:  Comparison of multi-task learning method between (Left) parallel and (Right) ensemble manners.*
+
 ## Objective
 Turing's main objective in this paper was to investigate the notion of computability and its relation to the Entscheidungsproblem (the decision problem), which is concerned with determining whether a given mathematical statement is provable or not.
 
