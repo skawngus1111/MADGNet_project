@@ -25,6 +25,10 @@ Generalizability in deep neural networks plays a pivotal role in medical image s
 ## Method Overview
 we propose a novel attention mechanism called Multi-Frequency in Multi-Scale Attention (MFMSA) block. This block employs multi-frequency channel attention (MFCA) with 2D Discrete Cosine Transform (2D DCT) to produce a channel attention map by extracting frequency statistics. Subsequently, multi-scale spatial attention (MSSA) is applied to extract discriminative boundary features and aggregate them from each scale. Additionally, we introduce a Ensemble Sub-Decoding Module (E-SDM) to prevent information loss caused by drastic upsampling during multi-task learning with deep supervision. The resulting model, MADGNet, which mainly comprises the MFMSA block and E-SDM, achieved the highest segmentation performance in various modalities and clinical settings.
 
+![MADGNet](/static/image/MADGNet.png)
+
+*Figure 1:  (Left) The overall architecture of the proposed MADGNet mainly comprises MFMSA block and E-SDM. (Right) MFMSA block contains $S$ scale branches ($S = 3$ in this figure) where the $s$-th branch input feature map are downsampled into $\eta^{s - 1}$ ($\eta = \frac{1}{2}$ in this figure). As our MFMSA block considers two dimensions (scale and frequency), MADGNet achieves the highest performance in various modalities and other clinical settings. Additionally, since E-SDM predicts a core task from sub-tasks, the final output is more accurate than when processed parallelly.*
+
 ## Objective
 Turing's main objective in this paper was to investigate the notion of computability and its relation to the Entscheidungsproblem (the decision problem), which is concerned with determining whether a given mathematical statement is provable or not.
 
