@@ -6,7 +6,8 @@ title: Modality-agnostic Domain Generalizable Medical Image Segmentation by Mult
 authors:
     Ju-Hyeon Nam<sup>1</sup>, Nur Suriza Syazwany<sup>1</sup>, Su Jung Kim<sup>1</sup>, Sang-Chul Lee<sup>1,2</sup>
 affiliations:
-    Department of Electrical and Computer Engineering, Inha University^1^, DeepCardio^2^
+    Department of Electrical and Computer Engineering, Inha University<sup>1</sup>
+    DeepCardio<sup>2</sup>
 paper: https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
 video: https://www.youtube.com/results?search_query=turing+machine
 code: https://github.com/topics/turing-machines
