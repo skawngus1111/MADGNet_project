@@ -8,10 +8,9 @@ authors:
 affiliations:
     Department of Electrical and Computer Engineering, Inha University<sup>1</sup>
     DeepCardio<sup>2</sup>
-paper: https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
-video: https://www.youtube.com/results?search_query=turing+machine
-code: https://github.com/topics/turing-machines
-data: https://huggingface.co/docs/datasets
+paper (To be released): https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
+video (To be released): https://www.youtube.com/results?search_query=turing+machine
+code (To be released): https://github.com/topics/turing-machines
 ---
 
 <div class="columns is-centered has-text-centered">
