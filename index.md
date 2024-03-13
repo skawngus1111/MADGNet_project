@@ -2,9 +2,9 @@
 layout: project_page
 permalink: /
 
-title: On Computable Numbers, with an Application to the Entscheidungsproblem
+title: Modality-agnostic Domain Generalizable Medical Image Segmentation by Multi-Frequency in Multi-Scale Attention
 authors:
-    A. M. Turing
+    Ju-Hyeon Nam, Nur Suriza Syazwany, Su Jung Kim, Sang-Chul Lee
 affiliations:
     King's College, Cambridge
 paper: https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
