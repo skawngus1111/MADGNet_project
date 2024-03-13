@@ -4,9 +4,9 @@ permalink: /
 
 title: Modality-agnostic Domain Generalizable Medical Image Segmentation by Multi-Frequency in Multi-Scale Attention
 authors:
-    Ju-Hyeon Nam, Nur Suriza Syazwany, Su Jung Kim, Sang-Chul Lee
+    Ju-Hyeon Nam^1^, Nur Suriza Syazwany^1^, Su Jung Kim^1^, Sang-Chul Lee^1,2^
 affiliations:
-    King's College, Cambridge
+    Department of Electrical and Computer Engineering, Inha University^1^, DeepCardio^2^
 paper: https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf
 video: https://www.youtube.com/results?search_query=turing+machine
 code: https://github.com/topics/turing-machines
