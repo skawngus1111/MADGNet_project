@@ -1,4 +1,3 @@
-![image](https://github.com/skawngus1111/MADGNet_project/assets/77310264/b5affb8a-0299-485b-9056-5decb07cd477)![image](https://github.com/skawngus1111/MADGNet_project/assets/77310264/871375f9-53db-4053-b145-ec777e202d2d)---
 layout: project_page
 permalink: /
 
