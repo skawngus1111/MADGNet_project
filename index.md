@@ -33,7 +33,7 @@ we propose a novel attention mechanism called Multi-Frequency in Multi-Scale Att
 
 *Figure 2:  Comparison of multi-task learning method between (Left) parallel and (Right) ensemble manners.*
 
-## SOTA Comparison
+## SOTA Comparison with Quantitative Results
 ### Comparison on Seen Clinical Settings
 ![Seen_Results](/static/image/SOTA_Comparison_seen.png)
 
@@ -42,6 +42,10 @@ we propose a novel attention mechanism called Multi-Frequency in Multi-Scale Att
 
 ### Comparison on Fundus Segmentation
 ![Seen_Results](/static/image/SOTA_Comparison_fundus.png)
+
+## SOTA Comparison with Qualitative Results
+
+
 
 ## Table: Comparison of Computable and Non-Computable Numbers
 
