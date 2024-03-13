@@ -38,13 +38,13 @@ we propose a novel attention mechanism called Multi-Frequency in Multi-Scale Att
 ![Seen_Results](/static/image/SOTA_Comparison_seen.png)
 
 ### Comparison on Unseen Clinical Settings
-![Seen_Results](/static/image/SOTA_Comparison_unseen.png)
+![Unseen_Results](/static/image/SOTA_Comparison_unseen.png)
 
 ### Comparison on Fundus Segmentation
-![Seen_Results](/static/image/SOTA_Comparison_fundus.png)
+![Fundus_Results](/static/image/SOTA_Comparison_fundus.png)
 
 ## SOTA Comparison with Qualitative Results
-
+![Qualitative](/static/image/SOTA_Comparison_qualitative.png)
 
 
 ## Table: Comparison of Computable and Non-Computable Numbers
